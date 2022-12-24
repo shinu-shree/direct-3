@@ -1,0 +1,6 @@
+Git Commit Structure 
+-commit id 
+-User/Email
+-Timestamp
+-Commit Msg
+
